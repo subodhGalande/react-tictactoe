@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.BoardRow {
+  padding: 2px;
+}
